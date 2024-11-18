@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP3: HALF ADDER AND SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
